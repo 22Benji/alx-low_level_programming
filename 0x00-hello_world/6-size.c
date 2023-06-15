@@ -1,11 +1,15 @@
 /*
  * File: 6-size.c
+ * Auth: Biniam Getu
  */
 
 #include <stdio.h>
 
 /**
- *  C program that prints the size of various types
+ * main - Prints the size of various types based on
+ *        the computer it is compiled and run on..
+ *
+ * Return: Always 0.
  */
 int main(void)
 {
@@ -16,4 +20,4 @@ int main(void)
 	printf("Size of a float: %zu byte(s)\n", sizeof(float));
 
 	return (0);
-} 
+}
