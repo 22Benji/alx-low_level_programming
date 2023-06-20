@@ -11,6 +11,7 @@
  *
  * Return: 1 if character is lowercase, 0 otherwise.
  */
+
 int _islower(int i)
 {
 	if (i >= 'a' && i <= 'z')
