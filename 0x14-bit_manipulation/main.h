@@ -11,5 +11,9 @@ int _atoi(const char *s);
 int _putchar(char c);
 int get_endianness(void);
 
+<<<<<<< HEAD
 #endif  /*IF CONDITION ENDS HERE */
 
+=======
+#endif
+>>>>>>> parent of e601dc4... Delete 0x14-bit_manipulation directory
