@@ -1,5 +1,6 @@
 #include "main.h"
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include <stdio.h>
 
 /**
@@ -23,6 +24,8 @@ unsigned int binary_to_uint(const char *b)
         }
         return (abraham);
 =======
+=======
+>>>>>>> parent of eec26df... Delete 0x14-bit_manipulation directory
 
 /**
  * binary_to_uint - converts a binary number to unsigned int
@@ -46,5 +49,10 @@ unsigned int binary_to_uint(const char *b)
 	}
 
 	return (dec_val);
+<<<<<<< HEAD
 >>>>>>> parent of e601dc4... Delete 0x14-bit_manipulation directory
 }
+=======
+}
+
+>>>>>>> parent of eec26df... Delete 0x14-bit_manipulation directory

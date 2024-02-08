@@ -11,3 +11,7 @@ int get_endianness(void)
 
 	return (*c);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of eec26df... Delete 0x14-bit_manipulation directory

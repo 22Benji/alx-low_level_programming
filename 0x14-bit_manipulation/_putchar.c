@@ -11,3 +11,7 @@ int _putchar(char c)
 {
 	return (write(1, &c, 1));
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of eec26df... Delete 0x14-bit_manipulation directory

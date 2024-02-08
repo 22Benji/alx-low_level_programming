@@ -2,6 +2,7 @@
 
 /**
 <<<<<<< HEAD
+<<<<<<< HEAD
  * print_binary - equivalent of a decimal number that prints a binary
  * @n: the amount or number binary to be printed
  */
@@ -25,6 +26,8 @@ void print_binary(unsigned long int n)
         if (!new)
                 _putchar('0');
 =======
+=======
+>>>>>>> parent of eec26df... Delete 0x14-bit_manipulation directory
  * print_binary - prints the binary equivalent of a decimal number
  * @n: number to print in binary
  */
@@ -47,5 +50,16 @@ void print_binary(unsigned long int n)
 	}
 	if (!count)
 		_putchar('0');
+<<<<<<< HEAD
 >>>>>>> parent of e601dc4... Delete 0x14-bit_manipulation directory
 }
+=======
+}
+
+~
+
+~
+
+~
+
+>>>>>>> parent of eec26df... Delete 0x14-bit_manipulation directory

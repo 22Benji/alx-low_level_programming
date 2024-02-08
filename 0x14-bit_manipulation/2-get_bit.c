@@ -2,6 +2,7 @@
 
 /**
 <<<<<<< HEAD
+<<<<<<< HEAD
  * get_bit - it takes the value of a bit of index in a decimal number be return
  * @n: search for index or number or integer
  * @index: numbers of bit of index(s)
@@ -16,6 +17,8 @@ int get_bit(unsigned long int n, unsigned int index)
         amonut_of_bit_values = (n >> index) & 1;
         return (amonut_of_bit_values);
 =======
+=======
+>>>>>>> parent of eec26df... Delete 0x14-bit_manipulation directory
  * get_bit - returns the value of a bit at an index in a decimal number
  * @n: number to search
  * @index: index of the bit
@@ -32,5 +35,10 @@ int get_bit(unsigned long int n, unsigned int index)
 	bit_val = (n >> index) & 1;
 
 	return (bit_val);
+<<<<<<< HEAD
 >>>>>>> parent of e601dc4... Delete 0x14-bit_manipulation directory
 }
+=======
+}
+
+>>>>>>> parent of eec26df... Delete 0x14-bit_manipulation directory

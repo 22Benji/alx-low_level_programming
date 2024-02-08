@@ -12,8 +12,13 @@ int _putchar(char c);
 int get_endianness(void);
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #endif  /*IF CONDITION ENDS HERE */
 
 =======
 #endif
 >>>>>>> parent of e601dc4... Delete 0x14-bit_manipulation directory
+=======
+#endif
+
+>>>>>>> parent of eec26df... Delete 0x14-bit_manipulation directory
