@@ -1,1 +1,1 @@
-this is bit manipulation file
+Bit Manipulataion
